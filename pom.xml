@@ -77,7 +77,7 @@
     <version.com.fasterxml.jackson.databind>2.10.4</version.com.fasterxml.jackson.databind>
     <version.com.fasterxml.jackson.annotations>2.9.10</version.com.fasterxml.jackson.annotations>
     <version.com.google.code.gson>2.8.6</version.com.google.code.gson>
-    <version.org.jresearch.gwt.time>1.4.12-SNAPSHOT</version.org.jresearch.gwt.time>
+    <version.org.jresearch.gwt.time>2.0.3</version.org.jresearch.gwt.time>
     <version.com.google.guava>25.0-jre</version.com.google.guava>
     <version.com.google.inject.guice>4.0</version.com.google.inject.guice>
     <version.com.google.gwt>2.9.0</version.com.google.gwt>
